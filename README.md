@@ -2,7 +2,7 @@
 
 ## introduction:
 
-a virtual reality project from an online course assignment; the development log is available as a playlist on youtube (https://www.youtube.com/playlist?list=PLQFc315Wod3Uf0U2fM6ZFdJmdfdwWhhBd)
+a virtual reality project as a sample & for practice; made using unity & c# on windows; the development log is available as a playlist on youtube (https://www.youtube.com/playlist?list=PLQFc315Wod3Uf0U2fM6ZFdJmdfdwWhhBd)
 
 ### notes:
 
